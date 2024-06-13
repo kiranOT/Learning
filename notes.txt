@@ -1,0 +1,31 @@
+
+
+button to graph remove
+
+underline main read in input
+
+NOT RESPONSIVE
+
+
+loading screen when api call
+
+
+
+
+investor form get 500 
+
+//////////////////////////////////
+BACKED CHANGE Team form (please fill all the form )
+///////////////////////////////////////////////
+
+
+
+///////////////////////////////////////////////
+Done
+Make input label First letter Capital
+show success aur error msg by react toaster
+fix disable button
+make sure very where drop sown same
+add signin/signup form in Home page  
+fix step 2 to redirect to step 3
+
