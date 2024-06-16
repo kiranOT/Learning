@@ -1,0 +1,46 @@
+input {
+    border: none;
+    box-shadow: 0px 0px 10px rgba(67, 65, 65.4);
+    font-size: 1.2rem;
+    outline: none;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+  
+  input:focus {
+    text-decoration: none;
+  }
+  
+  input:focus-within {
+    border: 2px solid aqua;
+  }
+  
+  .App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  Button {
+    width: auto;
+    padding: 10px 30px;
+    margin: 10px;
+    border: 2px solid white;
+    box-shadow: 0px 0px 10px rgba(67, 65, 65.4);
+    font-size: 1.2rem;
+    border-radius: 200px;
+    cursor: pointer;
+  }
+  
+  Button:hover {
+    color: red;
+    box-shadow: 0px 0px 10px rgb(12, 12, 12);
+  }
+  Button:active {
+    color: red;
+  }
+  
+  
+  
