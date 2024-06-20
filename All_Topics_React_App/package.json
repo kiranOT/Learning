@@ -10,15 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.20",
+    "@mui/x-date-pickers": "latest",
     "bootstrap": "^5.3.3",
+    "dayjs": "^1.11.10",
     "formik": "^2.4.5",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
+    "react-otp-input": "^3.1.1",
     "react-redux": "^9.1.0",
     "react-router-dom": "^6.22.3",
+    "react-spinners-kit": "^1.9.1",
     "redux": "^5.0.1",
-    "react-otp-input": "^3.1.1",
     "uuid": "^9.0.1",
     "yup": "^1.4.0"
   },
