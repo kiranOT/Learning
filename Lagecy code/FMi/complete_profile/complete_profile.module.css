@@ -1,0 +1,37 @@
+.main_div {
+  /* display: flex; */
+  /* margin: 20px 30px; */
+}
+.main_left_div {
+  flex: 3;
+  margin-right: 20px;
+  /* min-width: 30% !important; */
+}
+
+.main_right_div {
+  flex: 9;
+}
+
+.multiplImage {
+  /* background-position: */
+  /* background-repeat: no-repeat;
+  background-size: 136% 50%;
+  background-image: url("/assets/images/formbackshadow.png"),
+    url("/assets/images/formbackshadow.png"),
+    url("/assets/images/formbackshadow.png"),
+    url("/assets/images/formbackshadow.png"); */
+}
+@media screen and (min-width: 530px) {
+  /* .multiplImage {
+    background-position:
+      25% 10%,
+      40% 90%,
+      30% 110%;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    background-image: url("/assets/images/formbackshadow.png"),
+      url("/assets/images/formbackshadow.png"),
+      url("/assets/images/formbackshadow.png"),
+      url("/assets/images/formbackshadow.png"); 
+   } */
+}
